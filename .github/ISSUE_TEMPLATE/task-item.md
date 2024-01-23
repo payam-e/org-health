@@ -1,7 +1,7 @@
 ---
 name: Task Item
 about: Describe this issue template's purpose here.
-title: "[Task] "
+title: ''
 labels: ''
 assignees: ''
 
